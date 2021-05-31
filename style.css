@@ -1,0 +1,58 @@
+.heading
+{
+    width: 100%;
+}
+body
+{
+  background-size: cover;
+}
+#h4
+{
+    color: black;
+    margin-right: 255px;
+    font-size: 22px;
+}
+.button
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 75px;
+    margin-left: 25px;
+
+    
+}
+.button1
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 75px;
+    margin-left: 25px;
+}
+.button2
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 75px;
+    margin-left: 25px; 
+}
+#back 
+{
+    float: left;
+    width: 40px;
+    height: 40px;
+}
+body{
+    background-color: lightgreen;
+}
+#h41
+{
+    width: 100%;
+    background-color: white;
+    float: left;
+}
+#sound
+{
+    width: 40px;
+    height: 40px;
+    float: right;
+}
